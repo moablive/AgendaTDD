@@ -1,0 +1,3 @@
+{
+  "ConnectionString": "Server=localhost;Port=3306;Database=Agenda;Uid=root;Pwd=1234;"
+}

@@ -1,0 +1,6 @@
+C:\developer\c#\Agenda\Agenda.Domain\bin\Debug\Agenda.Domain.dll
+C:\developer\c#\Agenda\Agenda.Domain\bin\Debug\Agenda.Domain.pdb
+C:\developer\c#\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.AssemblyReference.cache
+C:\developer\c#\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.CoreCompileInputs.cache
+C:\developer\c#\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.dll
+C:\developer\c#\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.pdb

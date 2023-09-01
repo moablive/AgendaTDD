@@ -1,0 +1,14 @@
+C:\developer\c#\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.AssemblyReference.cache
+C:\developer\c#\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.CoreCompileInputs.cache
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Agenda.Repos.dll
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Agenda.Repos.pdb
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Agenda.DAL.dll
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Agenda.Domain.dll
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Dapper.dll
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Agenda.DAL.pdb
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Agenda.DAL.dll.config
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Agenda.Domain.pdb
+C:\developer\c#\Agenda\Agenda.Repos\bin\Debug\Dapper.xml
+C:\developer\c#\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.CopyComplete
+C:\developer\c#\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.dll
+C:\developer\c#\Agenda\Agenda.Repos\obj\Debug\Agenda.Repos.pdb
